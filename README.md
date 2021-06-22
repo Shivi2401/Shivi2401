@@ -1,6 +1,6 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Shivam Bhatt</h1>
 
-<h3 align="center">Aspiring Engineer at Bennett University</h3>
+<h3 align="center">Trying to Program my way through Life</h3>
 <br>
 
 <p align="center" ><img src="GIFs/code.gif" width="400"></p>

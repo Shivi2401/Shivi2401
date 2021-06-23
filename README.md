@@ -8,21 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Shivi2401?label=Follow&style=social)](https://github.com/Shivi2401) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivi2401)
 
-<h3 align="center">🔗Connect with me:</h3>
-<br>
-<p align="center">
-<a href="https://www.instagram.com/muggle.god/" align="center"><img alt="Instagram" src="https://img.shields.io/badge/Shivam Bhatt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://shivamb2401.medium.com/" align="center">	<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shivam-bhatt-2401/" align="center"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shivamb2401@gmail.com" align="center"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.com/Shivi2001#3832" align="center"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://twitter.com/shivamb2401" align="center"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:E20CSE149@bennett.edu.in" align="center"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/shivamb2401" align="center"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-</p>
-
-<br>
 
 <h3 align="center">💻Programming Language Skills:</h3>
 <br>
@@ -51,7 +37,28 @@
 </p>
 <br>
 
+
+
+
+<h3 align="center">🔗Connect with me:</h3>
+<br>
+<p align="center">
+<a href="https://www.instagram.com/muggle.god/" align="center"><img alt="Instagram" src="https://img.shields.io/badge/Shivam Bhatt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://shivamb2401.medium.com/" align="center">	<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-bhatt-2401/" align="center"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivamb2401@gmail.com" align="center"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/Shivi2001#3832" align="center"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://twitter.com/shivamb2401" align="center"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:E20CSE149@bennett.edu.in" align="center"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/shivamb2401" align="center"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+</p>
+
+<br>
+
+
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivi2401&show_icons=true&locale=en&theme=dark" alt="Shivam-Bhatt" width="450" height="250" /></p>
+
 
 ### Check my blogs:
 

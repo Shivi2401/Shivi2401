@@ -1,6 +1,6 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Shivam Bhatt</h1>
 <p align="center" ><img src="GIFs/code.gif" width="400"></p>
-<p align = "center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial&color=CDCDCD&background=FFFFFF00&center=true&vCenter=true&width=900&height=20&lines=Trying+to+program+my+way+through+Life" alt="Shivam-Bhatt"/></p>
+<p align = "center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial&color=CDCDCD&background=FFFFFF00&center=true&vCenter=falsee&width=900&height=30&lines=Trying+to+program+my+way+through+Life" alt="Shivam-Bhatt"/></p>
 
 <a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a>
 

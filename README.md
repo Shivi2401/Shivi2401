@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Shivi2401?label=Follow&style=social)](https://github.com/Shivi2401) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivi2401)
 
-<a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a>
+<!-- <a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a> -->
 
 <h3 align="center">🔗Connect with me:</h3>
 <br>

@@ -60,7 +60,7 @@
 
 <!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=Shivi2401&custom_title=Shivam's%20activity%20graph&theme=react-dark&hide_border=true) -->
 
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div> -->
 
 <p align = "center">&nbsp;<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="150" /></p>
 

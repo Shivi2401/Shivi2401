@@ -2,17 +2,9 @@
 <p align="center" ><img src="GIFs/code.gif" width="400"></p>
 <p align = "center">&nbsp;<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial&color=CDCDCD&background=FFFFFF00&center=true&vCenter=falsee&width=900&height=30&lines=Trying+to+program+my+way+through+Life" alt="Shivam-Bhatt"/></p>
 
-<a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a>
-
 [![GitHub followers](https://img.shields.io/github/followers/Shivi2401?label=Follow&style=social)](https://github.com/Shivi2401) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivi2401)
 
-[![wakatime](https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg)](https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4)
-
-[![wakatime](https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg)](https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4)
-
-
 <a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a>
-
 
 <h3 align="center">🔗Connect with me:</h3>
 <br>
@@ -69,14 +61,6 @@
 <!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=Shivi2401&custom_title=Shivam's%20activity%20graph&theme=react-dark&hide_border=true) -->
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-<p align = "center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@shivamb2401/b396905e-21ce-436a-aed6-37f87ae8e4e0.png" /></a></p>
-
-<p align = "center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@shivamb2401/b26a83c1-0e24-4de2-8bb9-ff99aab9e42c.png" /></a></p>
-
-<p align = "center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@shivamb2401/2492ff18-9a8a-403a-b17f-3c5443a84bcc.png" /></a></p>
-
-<p align = "center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@shivamb2401/7ebf1214-4dd1-4d85-b0dc-5f9a0ae8ed45.png" /></a></p>
 
 <p align = "center">&nbsp;<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="150" /></p>
 

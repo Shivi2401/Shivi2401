@@ -4,6 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Shivi2401?label=Follow&style=social)](https://github.com/Shivi2401) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivi2401)
 
+
+
 <!-- <a href="https://wakatime.com/@4107fc07-b495-4e2d-8914-a117e2ad06e4"><img src="https://wakatime.com/badge/user/4107fc07-b495-4e2d-8914-a117e2ad06e4.svg" alt="Total time coded since Sep 20 2021" /></a> -->
 
 <h3 align="center">🔗Connect with me:</h3>
@@ -17,6 +19,7 @@
 <a href="https://twitter.com/shivamb2401" align="center"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:E20CSE149@bennett.edu.in" align="center"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/shivamb2401" align="center"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-8530-8710" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 2em; margin-inline-start: 0.5em" alt="ORCID iD icon"/></a>
 
 </p>
 

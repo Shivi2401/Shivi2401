@@ -65,9 +65,9 @@
 
 <h3 align="center">📈Github Performance:</h3>
 
-<p align = "center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Shivi2401&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="150" /></p>
+<p align = "center">&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivi2401&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="150" /></p>
 
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivi2401&layout=compact&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="200" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivi2401&layout=compact&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&hide_border=true&bg_color=1F222E&hide_title=true&hide_border=true&cache_seconds=1800" alt="Shivam-Bhatt" width="450" height="200" /></p>
 
 <!-- ![activity graph](https://activity-graph.herokuapp.com/graph?username=Shivi2401&theme=react-dark&hide_border=true) -->
 
